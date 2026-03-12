@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment Variables
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.hypothesis/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Alembic
+alembic/versions/*.pyc
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Kiro-specific (exclude from GitHub)
+extensions/
+powers/
+skills/
+steering/
+argv.json
+
+# AWAAZ project files (different project)
+AWAAZ_Project_Summary.md
+
+# Generated output
+output/
+
+# Root-level service files (if these are from AWAAZ, exclude them)
+# Uncomment these lines if ocr_services.py and pdf_generate.py are not part of Intelli-Credit
+# ocr_services.py
+# pdf_generate.py
+# templates/affidavit_template.txt
+# templates/scheme_application_template.txt
