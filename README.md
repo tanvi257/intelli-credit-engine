@@ -156,21 +156,7 @@ See `.kiro/specs/intelli-credit-engine/design.md` for detailed architecture docu
 
 **Project Team:** Team Optimizer  
 **Lead Developer:** Tanvi Mandan (tanvimandan7@gmail.com)  
-**Date:** March 2026
+**Date:** 12 March 2026
 
-See [AUTHORS.md](AUTHORS.md) for complete team information.
 
-## Academic Integrity
 
-This project is original work developed by Team Optimizer for [hackathon/course name]. All code, documentation, and design are our intellectual property. Third-party libraries are properly cited in requirements.txt.
-
-## License
-
-MIT License - See [LICENSE](LICENSE) file for details.
-
-Copyright © 2026 Team Optimizer. All rights reserved.
-
-## Acknowledgments
-
-- AWS Services: Textract, Bedrock, S3, RDS, Lambda
-- Open Source: FastAPI, SQLAlchemy, pytest, hypothesis
